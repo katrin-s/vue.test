@@ -1,7 +1,7 @@
 #### Using GitBash + github  
 
 <ol>
-	<li>*Create new repository in github*</li>
+	<li><strong>Create new repository in github</strong></li>
 	<li>Open GitBash (in the same folder where files are)</li>
 	<li>git init</li>
 	<li>git remote add (link from github)</li>
