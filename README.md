@@ -19,4 +19,8 @@
 
 ##### Here is an example of a code block in markdown  
 
-```This has a gray background```
+```This has a gray background```  
+
+##### Here is the link to [markdown guide](https://www.markdownguide.org/basic-syntax/)
+
+
