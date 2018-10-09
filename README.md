@@ -1,5 +1,5 @@
 <ol>
-	<li>Create new repository in github</li>
+	<li>**_Create new repository in github_**</li>
 	<li>Open GitBash</li>
 	<li>git init</li>
 	<li>git remote add</li>
